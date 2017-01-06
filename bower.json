@@ -1,0 +1,21 @@
+{
+  "name": "madethreedee",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "Will Wright"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
